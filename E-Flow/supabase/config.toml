@@ -1,0 +1,22 @@
+project_id = "zygocibzaijxmhlnwoeo"
+
+[functions.enrich-contacts]
+verify_jwt = false
+
+[functions.analyze-segments]
+verify_jwt = false
+
+[functions.generate-actions]
+verify_jwt = false
+
+[functions.chat]
+verify_jwt = false
+
+[functions.webhook-input]
+verify_jwt = false
+
+[functions.send-analysis-notification]
+verify_jwt = false
+
+[functions.send-alert]
+verify_jwt = false
